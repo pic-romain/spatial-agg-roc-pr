@@ -4,6 +4,12 @@
 
 Code of "Spatial aggregation of ROC and PR curves" by R. Pic, Z. Zhang, S. Engelke, and J. Ziegel ([arxiv:]())
 
+## Citation
+
+```bibtex
+
+```
+
 ## Article figures
 
 All the code to generate the figures in the article are in `scripts/`.
@@ -109,12 +115,6 @@ We provide some precomputed/cached data in the following folders:
 * `cache/` : to cache large computation results
 * `data/` : to store contingency matrices used for global/region aggregated curves 
 
-
-## Citation
-
-```bibtex
-
-```
 
 ## Related resources
 
