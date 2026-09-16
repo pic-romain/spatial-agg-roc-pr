@@ -1,6 +1,6 @@
 # Spatial aggregation of ROC and PR curves
 
-**Zenodo** : [https://doi.org/10.5281/zenodo.XXXXX](https://doi.org/10.5281/zenodo.XXXXX)
+**Zenodo** : [https://doi.org/10.5281/zenodo.22803022](https://doi.org/10.5281/zenodo.22803022)
 
 Code of "Spatial aggregation of ROC and PR curves" by R. Pic, Z. Zhang, S. Engelke, and J. Ziegel ([arxiv:]())
 
