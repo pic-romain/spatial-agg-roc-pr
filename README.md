@@ -2,12 +2,17 @@
 
 **Zenodo** : [https://doi.org/10.5281/zenodo.22803022](https://doi.org/10.5281/zenodo.22803022)
 
-Code of "Spatial aggregation of ROC and PR curves" by R. Pic, Z. Zhang, S. Engelke, and J. Ziegel ([arxiv:]())
+Code of "Spatial aggregation of ROC and PR curves" by R. Pic, Z. Zhang, S. Engelke, and J. Ziegel ([arxiv:2609.19517](https://arxiv.org/abs/2609.19517))
 
 ## Citation
 
 ```bibtex
-
+@misc{Pic2026,
+      title={Spatial Aggregation of ROC and Precision-Recall Curves}, 
+      author={Romain Pic and Zhongwei Zhang and Sebastian Engelke and Johanna Ziegel},
+      year={2026},
+      doi={10.48550/arXiv.2609.19517},
+}
 ```
 
 ## Article figures
